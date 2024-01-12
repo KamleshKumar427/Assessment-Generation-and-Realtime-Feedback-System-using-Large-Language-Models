@@ -1,5 +1,5 @@
 # Assessment-Generation-and-Realtime-Feedback-System-using-Large-Language-Models 
-Assessment Generation and Realtime Feedback System using (llama-2 7b chat hf).
+Assessment Generation and Realtime Feedback System using (llama-2 7b chat hf) and prompt engineering.
 
 # Project description
 
